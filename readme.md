@@ -1,3 +1,5 @@
+![logo](https://raw.githubusercontent.com/Kdy010010/Websharp/main/IMG_2128.webp)
+
 # Websharp - A Lightweight Alternative to PHP
 
 Websharp is a simple and lightweight scripting language designed for web-related tasks and automation. If you're looking for a way to automate web development tasks or perform quick scripting operations without the overhead of a full-fledged programming language, Websharp might be the perfect choice for you.
